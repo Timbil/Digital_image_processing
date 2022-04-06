@@ -1,2 +1,3 @@
 # Digital image processing
-__
+
+Исходные Jupiter Notebook по отчетам ЦОС
